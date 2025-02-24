@@ -1,0 +1,13 @@
+# Eclipse の設定ファイルを無視
+.classpath
+.project
+.settings/
+
+# ビルドしたファイルを無視
+bin/
+
+# Mac の不要ファイルを無視
+.DS_Store
+
+# Windows の不要ファイルを無視
+Thumbs.db
