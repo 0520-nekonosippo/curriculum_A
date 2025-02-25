@@ -38,7 +38,7 @@ public class Qes1_13 {
 	        
 	        // 文字列型の宣言と初期化
 	        String text;
-	        text = "null";
+	        text = null;
 	        
 	        // ブーリアン型の宣言と初期化
 	        boolean isTrue;
