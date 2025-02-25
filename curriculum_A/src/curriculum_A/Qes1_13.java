@@ -34,11 +34,11 @@ public class Qes1_13 {
 	        
 	        // 文字型の宣言と初期化
 	        char numchar;
-	        numchar =  'a';
+	        numchar =  '0';
 	        
 	        // 文字列型の宣言と初期化
 	        String text;
-	        text = "Hello";
+	        text = "null";
 	        
 	        // ブーリアン型の宣言と初期化
 	        boolean isTrue;
